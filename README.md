@@ -283,6 +283,8 @@ for step in trange(1, STEPS + 1, desc="DBPO-steps"):
 
 print("Training done ✅")
 ```
+### Here is roughly how rewards look during training
+![Graph](graph.png)
 
 ---
 
@@ -295,4 +297,4 @@ You now have DBPO split into digestible chunks:
 3. A mathematically-annotated optimisation step  
 4. The outer training loop  
 
-Feel free to drop the blocks into separate notebook cells, play with the hyper-parameters, or swap the reward function for something else.
+Feel free to do whatever you want with this information
