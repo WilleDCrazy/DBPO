@@ -288,13 +288,13 @@ print("Training done ✅")
 
 ---
 
-## 5 · And that’s it
+## 5 · Boom
 
-You now have DBPO split into digestible chunks:
+That's DBPO :)
 
 1. **Config** & imports  
 2. Reward + model loading  
 3. A mathematically-annotated optimisation step  
 4. The outer training loop  
 
-Feel free to do whatever you want with this information
+Feel free to do whatever you want with this information lol
